@@ -13,4 +13,4 @@
 <!--- 📫 How to reach me: ...-->
 
 ## Technical Portfolios Repositories
-- Data-Science-Portfolio
+- [Data Science Portfolio](https://github.com/mannythecreator/Data-Science-Portfolio)
