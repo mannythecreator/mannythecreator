@@ -12,4 +12,14 @@ I am a recent graduate of Information Science specialized in Data Warehousing, D
 <!--- 📫 How to reach me: ...-->
 
 ### Technical Portfolios Repositories
-- [Data Science Portfolio](https://github.com/mannythecreator/Data-Science-Portfolio)
+- Data Science
+  - [Data Science Projects](https://github.com/mannythecreator/Data-Science-Portfolio)
+  - [50 Days of SQL](https://github.com/mannythecreator/50-Days-of-SQL) (Work in Progress)
+- Web Design
+  - [Museum of Candy](https://github.com/mannythecreator/museum-of-candy)
+  - [SailChimp Marketing Email](https://github.com/mannythecreator/SailChimp-HTML-email)
+  - [Counseling Center Website Redesign](https://github.com/mannythecreator/UNT-DSA-CTS-Redesign)
+  - [Digital Resume](https://main.d2e4grmhdtlauz.amplifyapp.com/#!) (Work in Progress)
+  - [Groove Marketing Email](https://github.com/mannythecreator/Groove-email-template/tree/main) (Work in Progress)
+- Programming
+  - [Black Jack](https://github.com/mannythecreator/blackjack)
