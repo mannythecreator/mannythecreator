@@ -11,3 +11,6 @@
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I'm learning how to speak German!
 <!--- 📫 How to reach me: ...-->
+
+## Technical Portfolios Repositories
+- Data-Science-Portfolio
