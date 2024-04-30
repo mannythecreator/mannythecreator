@@ -12,8 +12,9 @@ I am a recent graduate of Information Science specialized in Data Warehousing, D
 <!--- 📫 How to reach me: ...-->
 
 ### Technical Portfolios Repositories
-- Data Science
-  - [Data Science Projects](https://github.com/mannythecreator/Data-Science-Portfolio)
+- Data Science and Business Analytics
+  - [Full List of Data Science Projects](https://github.com/mannythecreator/Data-Science-Portfolio)
+  - [Performance Reports 2020 - 2022 for Cookies Co.](https://github.com/mannythecreator/cookie-co)
   - [50 Days of SQL](https://github.com/mannythecreator/50-Days-of-SQL) (Work in Progress)
 - Web Design
   - [Museum of Candy](https://github.com/mannythecreator/museum-of-candy)
