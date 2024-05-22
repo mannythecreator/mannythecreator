@@ -22,5 +22,6 @@ I am a recent graduate of Information Science specialized in Data Warehousing, D
   - [Counseling Center Website Redesign](https://github.com/mannythecreator/UNT-DSA-CTS-Redesign)
   - [Digital Resume](https://main.d2e4grmhdtlauz.amplifyapp.com/#!) (Work in Progress)
   - [Groove Marketing Email](https://github.com/mannythecreator/Groove-email-template/tree/main) (Work in Progress)
-- Programming
-  - [Black Jack](https://github.com/mannythecreator/blackjack)
+- Programming and Software Development
+  - [Guess the Capital - a Serverless Web App](https://github.com/mannythecreator/guess-the-capital/tree/main)
+  - [Black Jack - a Python Code](https://github.com/mannythecreator/blackjack)
