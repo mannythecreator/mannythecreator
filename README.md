@@ -11,7 +11,7 @@ I am a recent graduate of Information Science specialized in Data Warehousing, D
 - ⚡ Fun fact: I'm learning how to speak German!
 <!--- 📫 How to reach me: ...-->
 
-### Technical Portfolios Repositories
+### Technical Portfolio Repositories
 - Data Science and Business Analytics
   - [Full List of Data Science Projects](https://github.com/mannythecreator/Data-Science-Portfolio)
   - [Performance Reports 2020 - 2022 for Cookies Co.](https://github.com/mannythecreator/cookie-co)
