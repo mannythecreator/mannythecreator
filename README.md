@@ -7,13 +7,12 @@ I am a recent graduate of Information Science specialized in Data Warehousing, D
 - 👯 I’m looking to collaborate on web design and development. I would love to partner with a graphic designer or web designer while I develop the code end
 - 🤔 I’m looking for help with finding relevant skills to add to my resume that would advance my software engineering and data analytics abilities
 - 💬 Ask me about learning HTML and CSS
-- 😄 Pronouns: they/them
 - ⚡ Fun fact: I'm learning how to speak German!
 <!--- 📫 How to reach me: ...-->
 
 ### Technical Portfolio Repositories
 - Data Science and Business Analytics
-  - [Full List of Data Science Projects](https://github.com/mannythecreator/Data-Science-Portfolio)
+  - [Full List of College Data Science Projects](https://github.com/mannythecreator/Data-Science-Portfolio)
   - [Performance Reports 2020 - 2022 for Cookies Co.](https://github.com/mannythecreator/cookie-co)
   - [50 Days of SQL](https://github.com/mannythecreator/50-Days-of-SQL) (Work in Progress)
 - Web Design
